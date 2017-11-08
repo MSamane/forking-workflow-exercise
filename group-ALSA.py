@@ -1,2 +1,2 @@
 def tweet():
-    return "heyyy"
+    return "hey everyone!"
